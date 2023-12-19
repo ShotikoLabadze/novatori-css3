@@ -6,6 +6,7 @@
 }
 
 body {
+  background-color: #f7f5f9;
   width: 1920px;
   height: 6617px;
   background-image: url(img/Illustration.png), url(img/Union.png),
@@ -14,7 +15,7 @@ body {
     top 3131px left 0px, top 4429px left 0px, top 5888px left 0px;
   background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
 }
-
+/* Nav */
 .logo {
   margin-top: 40px;
   display: inline-block;
@@ -39,4 +40,82 @@ body {
   border-radius: 52px;
   border: none;
   background-color: white;
+}
+
+/* title */
+
+.title {
+  width: 511px;
+  margin-top: 285px;
+  margin-left: 173px;
+}
+.title p {
+  margin-top: 20px;
+}
+.title h4 {
+  color: #2278d4;
+  margin-bottom: 20px;
+}
+
+.title button {
+  margin-top: 20px;
+  width: 147px;
+  height: 48px;
+  border-radius: 52px;
+  color: white;
+  border: none;
+  background-color: #22a75d;
+  cursor: pointer;
+}
+
+/* box mans */
+
+.box-man {
+  text-align: center;
+  vertical-align: top;
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 777px;
+  height: 930px;
+  margin-top: 300px;
+  border-radius: 25px;
+}
+
+.left {
+  margin-left: 173px;
+}
+
+.box-man h2 {
+  margin-top: 134px;
+  font-size: 36px;
+}
+.color1 {
+  color: #22a75d;
+}
+.color2 {
+  color: #2278d4;
+}
+
+.box-man p {
+  margin-left: 69px;
+  font-size: 16px;
+  line-height: 24px;
+  width: 644px;
+}
+
+/* box title */
+.box-title {
+  vertical-align: top;
+  width: 645px;
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 257px;
+  color: white;
+}
+
+.box-title h2 {
+  display: inline-block;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 54px;
 }
