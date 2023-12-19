@@ -40,6 +40,7 @@ body {
   border-radius: 52px;
   border: none;
   background-color: white;
+  cursor: pointer;
 }
 
 /* title */
@@ -149,7 +150,7 @@ body {
 /* rocket section */
 
 .rocket-section {
-  margin-top: 600px;
+  margin-top: 500px;
   margin-left: 173px;
   width: 1800px;
 }
@@ -158,7 +159,6 @@ body {
   display: inline-block;
   width: 644px;
   height: 730px;
-  margin-left: 173px;
 }
 
 .rocket-title h4 {
