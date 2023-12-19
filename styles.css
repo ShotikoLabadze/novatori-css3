@@ -119,3 +119,64 @@ body {
   font-size: 48px;
   line-height: 54px;
 }
+
+/* list section */
+
+.helicopter {
+  margin-left: 1586px;
+  margin-top: 350px;
+}
+
+.list-box {
+  margin-top: 60px;
+  display: inline-block;
+  width: 332px;
+}
+
+.list-box ol {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 34px;
+}
+
+.first {
+  margin-left: 173px;
+}
+.second {
+  height: 172px;
+}
+
+/* rocket section */
+
+.rocket-section {
+  margin-top: 600px;
+  margin-left: 173px;
+  width: 1800px;
+}
+.rocket-title {
+  vertical-align: top;
+  display: inline-block;
+  width: 644px;
+  height: 730px;
+  margin-left: 173px;
+}
+
+.rocket-title h4 {
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 54px;
+  margin-bottom: 20px;
+}
+
+.rocket-title p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.rocket {
+  vertical-align: top;
+  display: inline-block;
+  width: 972px;
+  height: 900px;
+}
