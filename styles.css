@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  width: 1920px;
+  height: 6617px;
+  background-image: url(img/Illustration.png), url(img/Union.png),
+    url(img/Subtract.png), url(img/gradientSub.png), url(img/rect.png);
+  background-position: top left 604px, top 1428.96px left 0px,
+    top 3131px left 0px, top 4429px left 0px, top 5888px left 0px;
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+}
+
+.logo {
+  margin-top: 40px;
+  display: inline-block;
+  margin-left: 40px;
+}
+
+.nav {
+  display: inline-block;
+  margin-left: 800px;
+  padding: 10px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.nav button {
+  width: 147px;
+  height: 48px;
+  border-radius: 52px;
+  border: none;
+  background-color: white;
+}
