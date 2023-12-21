@@ -182,6 +182,13 @@ body {
 
 /* Presale Details */
 
+.presale {
+  background-image: url(img/clooud.png), url(img/minirocket.png);
+  background-repeat: no-repeat, no-repeat;
+  background-position: top 200px left, top 120px right 0px;
+  padding-top: 1px;
+}
+
 .presale-title {
   margin-top: 300px;
   text-align: center;
