@@ -178,5 +178,99 @@ body {
   vertical-align: top;
   display: inline-block;
   width: 972px;
-  height: 900px;
+}
+
+/* Presale Details */
+
+.presale-title {
+  margin-top: 300px;
+  text-align: center;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 54px;
+  color: #f7f5f9;
+}
+
+.presale-box {
+  margin-top: 80px;
+  display: inline-block;
+  text-align: center;
+  width: 511px;
+  height: 585px;
+  border-radius: 25px;
+  background-color: #ffffff;
+  margin: 10px;
+  vertical-align: top;
+}
+
+.left-box {
+  margin-left: 173px;
+}
+
+.presale-box:nth-child(2) {
+  margin-top: 70px;
+}
+
+.presale-box h3 {
+  margin-top: 40%;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 54px;
+}
+
+.presale-box h4 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.how-to-buy {
+  text-align: center;
+  margin-top: 50px;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 54px;
+  color: #f7f5f9;
+  margin-bottom: 30px;
+}
+
+.presale-info {
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+  color: #ffffff;
+}
+
+/* contact */
+
+footer {
+  text-align: center;
+  margin-top: 450px;
+}
+
+footer span {
+  color: white;
+  font-weight: 10;
+}
+
+footer a {
+  margin: 50px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 19.2px;
+  color: white;
+}
+
+.media-icons {
+  margin-top: 100px;
+}
+
+.media-icons a {
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  padding: 15px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  vertical-align: middle;
 }
